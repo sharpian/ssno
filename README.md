@@ -8,12 +8,12 @@ Recent research to solve the parametric partial differential equations shifted t
 ![Deep Spatio-spectral Block (DSSB)](assets/figure-dssb.png)
 
 ## Experiments
-![Darcy Flow Prediction)](assets/figure-darcy-pred.jpg)
-![Darcy Flow various resolution)](assets/figure-darcy-resolution.jpg)
+![Darcy Flow Prediction](assets/figure-darcy-pred.jpg)
+![Darcy Flow various resolution](assets/figure-darcy-resolution.jpg)
 
 ## Ablation study
-![Burgers equation ablation)](assets/figure-ablation-1d.jpg)
-![Burgers equation ablation)](assets/figure-ablation-2d.jpg)
+![Burgers equation ablation](assets/figure-ablation-1d.jpg)
+![Burgers equation ablation](assets/figure-ablation-2d.jpg)
 
 ## Program code
 python, pytorch
@@ -22,7 +22,7 @@ python, pytorch
 Burgers equation, Darcy Flow equation, Navier-Stokes equation, Computational Fluid Problem dataset
 
 ## Results
-![Darcy Flow results)](assets/table-darcy-results.jpg)
+![Darcy Flow results](assets/table-darcy-results.jpg)
 
 ## Citation
 https://ieeexplore.ieee.org/document/9701356
