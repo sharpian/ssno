@@ -22,7 +22,7 @@ python, pytorch
 Burgers equation, Darcy Flow equation, Navier-Stokes equation, Computational Fluid Problem dataset
 
 ## Results
-![Darcy Flow results](assets/table-darcy-results.jpg)
+![Darcy Flow results](assets/table-darcy-results.png)
 
 ## Citation
 https://ieeexplore.ieee.org/document/9701356
