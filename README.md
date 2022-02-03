@@ -12,8 +12,8 @@ Recent research to solve the parametric partial differential equations shifted t
 ![Darcy Flow various resolution)](assets/figure-darcy-resolution.jpg)
 
 ## Ablation study
-![Burgers equation ablation)](assets/figure-ablation-1d.png)
-![Burgers equation ablation)](assets/figure-ablation-2d.png)
+![Burgers equation ablation)](assets/figure-ablation-1d.jpg)
+![Burgers equation ablation)](assets/figure-ablation-2d.jpg)
 
 ## Program code
 python, pytorch
@@ -22,7 +22,7 @@ python, pytorch
 Burgers equation, Darcy Flow equation, Navier-Stokes equation, Computational Fluid Problem dataset
 
 ## Results
-![Darcy Flow results)](assets/table-darcy-results.jpg)
+![Darcy Flow results)](assets/table-darcy-results.png)
 
 ## Citation
 https://ieeexplore.ieee.org/document/9701356
