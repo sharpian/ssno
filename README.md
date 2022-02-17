@@ -27,6 +27,16 @@ Burgers equation, Darcy Flow equation, Navier-Stokes equation, Computational Flu
 ## Citation
 https://ieeexplore.ieee.org/document/9701356
 
+@ARTICLE{9701356,  
+  author={Rafiq, Muhammad and Rafiq, Ghazala and Jung, Ho-Youl and Choi, Gyu Sang},  
+  journal={IEEE Access},   
+  title={SSNO: Spatio-Spectral Neural Operator for Functional Space Learning of Partial Differential Equations},   
+  year={2022},  
+  volume={10},  
+  number={},  
+  pages={15084-15095},  
+  doi={10.1109/ACCESS.2022.3148401}
+  }
 
 
 
